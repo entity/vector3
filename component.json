@@ -1,0 +1,11 @@
+{
+  "name": "vector3",
+  "repo": "entity/vector3",
+  "version": "0.0.1",
+  "description": "vector 3d",
+  "keywords": ["vector", "math"],
+  "author": "stagas",
+  "license": "MIT",
+  "scripts": ["index.js"],
+  "dependencies": {}
+}
